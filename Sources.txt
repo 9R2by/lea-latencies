@@ -1,0 +1,3 @@
+Quellen:
+bswap, lea, xor, rorx: Intel Xeon Scalable Processors - Instruction Throughput and Latency August 2017 Revision 1.1 336289-002
+add, mov: 10th Generation Intel Core Processor based on Ice Lake Microarchitecture -  Instruction Throughput and Latency June 2020 Revision 1.1 341425-002
